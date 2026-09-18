@@ -1,0 +1,14 @@
+body{
+    font-family: arial;
+}
+.esconder{
+    color: black;
+}
+.esconder:hover{
+    color: red;
+    cursor: pointer;
+}
+img{
+    display: flex;
+    margin-left: 70px;
+}
