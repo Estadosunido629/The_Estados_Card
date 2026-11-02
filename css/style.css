@@ -1,0 +1,49 @@
+body{
+    font-family: arial;
+}
+.esconder{
+    color: white;
+}
+.esconder:hover{
+    color: black !important;
+    background-color: grey !important;
+    cursor: pointer;
+}
+.vermelho{
+    color: red;
+}
+.walter{
+    width: 40%;
+    margin-left: 35%;
+}
+.design{
+    width: 70%;
+    margin-left: 30%;
+}
+.Ellen {
+    width: 50%;
+    margin-left: 25%;
+}
+.shuake {
+    width: 35%;
+    margin-left: 35%;
+}
+.bgestrela{
+    background-image: url("../img/Estrela.png");
+    background-size: cover;
+    color: white;
+}
+.bgcubo{
+    background-image:
+        linear-gradient(rgba(0, 0, 0, 0.5), rgba(0,0,0,0.5)), 
+        url("../img/Bloco.png");
+    background-size: cover;
+    background-position: 0% 90%;
+}
+.bginter2{
+    background-image:
+        linear-gradient(rgba(0, 0, 0, 0.5), rgba(0,0,0,0.5)), 
+        url("../img/Condinome\ Inter\ 2.png");
+    background-size: cover;
+    background-position: 0% 30%;
+}
